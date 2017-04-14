@@ -122,6 +122,9 @@ atom-text-editor {
     color: @blue;
   }
   &.syntax--other.syntax--object {
+      &.syntax--property.syntax--js {
+          color: @purple;
+      }
       color: @yellow;
       &.syntax--js {
           color: @blue;
@@ -152,6 +155,9 @@ atom-text-editor {
 }
 
 .syntax--punctuation {
+    &.syntax--terminator {
+        color: white;
+    }
   &.syntax--definition {
       &.syntax--tag {
           color: @brown;
@@ -266,6 +272,9 @@ atom-text-editor {
   &.syntax--separator {
     background-color: @gray;
     color: @syntax-text-color;
+  }
+  &.syntax--delimiter {
+      color: white;
   }
 }
 

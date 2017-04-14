@@ -2,4 +2,6 @@
 
 A syntax theme based on codepen.io
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+I'm currently using this syntax theme with the Nucleus Dark UI theme.
+
+This syntax will probably need some cleanup but I won't have enough time to update it anytime soon.
